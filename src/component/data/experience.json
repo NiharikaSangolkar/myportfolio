@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "role": "Java Full Stack Development",
+      "organisation": "Nobel IT Solution and Development ",
+      "startDate": "Nov, 2023",
+      "endDate": "May,2024",
+      "location": "Pune,India",
+      "experiences": [
+        "Full Stack Developer with hands-on experience in Java,Spring Boot,Hibernate,and React.js. Skilled in frontend technologies such as HTML,CSS,and JavaScript. Completed a 6-month internship, specializing in building robust web applications and database management using SQL.Worked on both frontend and backend technology.Dedicated to delivering high-quality, scalable software solutions."
+        
+      ],
+      "imageSrc": "company/globalit.png"
+    }
+]
+    

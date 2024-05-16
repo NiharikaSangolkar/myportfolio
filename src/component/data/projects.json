@@ -1,0 +1,23 @@
+[
+    {
+      "key": 1,
+      "title": "Guessing Number Game ",
+      "description":"Developed an interactive guessing number game using Core Java, providing users with an engaging and entertaining experience.The game challenges players to guess a randomly generated number within a specified range, incorporating various features to enhance gameplay and user interaction",
+      "source": "https://www.github.com"
+    },
+    {
+      "key": 2,
+      "title": "GAS Agency Registration Web Application",
+      "description":"Designed and developed a web-based gas agency registration application using HTML, CSS, Servlet, JSP, and SQL. This application aimed to simplify the registration process for gas services and allowed for easy saving, updating and deleting of data.",
+      "source": "https://www.github.com"
+    },
+    {
+      "key": 3,
+      "title": "TravelOn Click Website ",
+      "description":"Developed a dynamic and user-friendly travel booking website using HTML, CSS, and JavaScript. The website aims to provide users with a seamless offering travel planning,booking and exploration.",
+      "source": "https://www.github.com"
+    }
+
+
+    
+  ]
